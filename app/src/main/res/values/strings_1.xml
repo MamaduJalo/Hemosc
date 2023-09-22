@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Hemosc</string>
+    <string name="como_doar">Como Doar</string>
+    <string name="onde_doar">Onde Doar</string>
+    <string name="onde_doar_e_horarios">Onde Doar e Horarios</string>
+    <string name="agende_sua_doa_ao">Agende Sua Doaçao</string>
+    <string name="perguntas_frequentes">Perguntas Frequentes</string>
+</resources>
